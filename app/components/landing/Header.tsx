@@ -55,7 +55,7 @@ export default function Header() {
         </svg>
       </Box>
         <Typography sx={{ fontSize: "1.25rem", fontWeight: 700 }}>
-          GitPulse
+          GitDash
         </Typography>
       </Box>
 

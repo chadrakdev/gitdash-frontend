@@ -9,7 +9,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "GitPulse",
+  title: "GitDash",
   description: "Your GitHub story, at a glance.",
 };
 
